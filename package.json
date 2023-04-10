@@ -1,0 +1,27 @@
+{
+  "name": "lab5",
+  "version": "1.0.1",
+  "description": "Web Assignment 5",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Sarfaraz PAtel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^7.0.2",
+    "pg": "^8.10.0",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.30.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aadityamagic/Lab5.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aadityamagic/lab5/issues"
+  },
+  "homepage": "https://github.com/aadityamagic/lab5#readme"
+}
